@@ -9,7 +9,7 @@ import java.util.*;
 
 // 제출 날짜 2023년 11월 25일
 
-public class Calculator_20200110 extends Frame {
+public class Calculator_2020xxxxx extends Frame {
 	
 	Panel topPanel;
 	TextField tf;
@@ -19,7 +19,7 @@ public class Calculator_20200110 extends Frame {
 	Font buttonFont;
 	String currentStr;
 	
-	public Calculator_20200110(String title) {
+	public Calculator_2020xxxxx(String title) {
 		super(title);
 		
 		setSize(700, 400); // Frame 사이즈!
@@ -83,7 +83,7 @@ public class Calculator_20200110 extends Frame {
 	}
 	
 	public static void main(String[] args) {
-		Calculator_20200110 mainWindow = new Calculator_20200110("JTH Calculation");
+		Calculator_2020xxxxx mainWindow = new Calculator_2020xxxxx("JTH Calculation");
 	}
 	
 	public void addActionListeners() {
